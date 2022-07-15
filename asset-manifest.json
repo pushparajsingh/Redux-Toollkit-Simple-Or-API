@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Redux-Toollkit-Simple-Or-API/static/css/main.073c9b0a.css",
+    "main.js": "/Redux-Toollkit-Simple-Or-API/static/js/main.13fdb066.js",
+    "static/js/787.f7074b07.chunk.js": "/Redux-Toollkit-Simple-Or-API/static/js/787.f7074b07.chunk.js",
+    "index.html": "/Redux-Toollkit-Simple-Or-API/index.html",
+    "main.073c9b0a.css.map": "/Redux-Toollkit-Simple-Or-API/static/css/main.073c9b0a.css.map",
+    "main.13fdb066.js.map": "/Redux-Toollkit-Simple-Or-API/static/js/main.13fdb066.js.map",
+    "787.f7074b07.chunk.js.map": "/Redux-Toollkit-Simple-Or-API/static/js/787.f7074b07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.13fdb066.js"
+  ]
+}
